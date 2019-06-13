@@ -22,5 +22,15 @@
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
+$string['addusername'] = 'Add username';
+$string['browserepositories'] = 'Browse repositories...';
+$string['createlink'] = 'Create link';
+$string['enterurl'] = 'Enter a URL';
+$string['openinapp'] = 'Open in the app';
+$string['openinnewwindow'] = 'Open in new window';
 $string['pluginname'] = 'Moodle App link Filter for Atto';
 $string['privacy:metadata'] = 'The atto_applink plugin does not store any personal data.';
+$string['urlscheme'] = 'URL scheme';
+$string['urlscheme_help'] = 'If you want to apply a specific URL scheme to this URL, then specify it in here. Leaving it empty will apply the default URL scheme.';
+$string['username'] = 'Username';
+$string['username_help'] = 'If you want the app to be opened with a specific user, then specify the username in here. If "Add username" is enabled and this field is empty, it will use the username of the user that\'s viewing the link.';
